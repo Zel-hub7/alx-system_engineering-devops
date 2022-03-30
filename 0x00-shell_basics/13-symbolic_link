@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /pin/ls __ls__
